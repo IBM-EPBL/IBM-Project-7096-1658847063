@@ -29,30 +29,27 @@ Large organizations may get trapped in different kinds of scams. In order to det
 
 
 
-R.LOKESH
++ R.LOKESH
 
++ K.HARISH SHORKKO
 
-K.HARISH SHORKKO
++R.KISHORE KUMAR
 
-
-R.KISHORE KUMAR
-
-
-S.AKASH
++ S.AKASH
 
 
 # Languages Used:
 
 
- Pandas
++ Pandas
  
- NumPy
++ NumPy
  
- Flask
++ Flask
  
- Scikit learn
++ Scikit learn
 
 
-PROJECT ID : IBM-Project-7096-1658847063
+# PROJECT ID : IBM-Project-7096-1658847063
 
 
