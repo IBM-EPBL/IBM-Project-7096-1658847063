@@ -33,7 +33,7 @@ Large organizations may get trapped in different kinds of scams. In order to det
 
 + K.HARISH SHORKKO
 
-+R.KISHORE KUMAR
++ R.KISHORE KUMAR
 
 + S.AKASH
 
