@@ -44,11 +44,13 @@ S.AKASH
 Languages Used:
 
 
-PYTHON
-
-JUPYTER BOOK
-
-HTML
+ Pandas
+ 
+ NumPy
+ 
+ Flask
+ 
+ Scikit learn
 
 
 PROJECT ID : IBM-Project-7096-1658847063
