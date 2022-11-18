@@ -9,13 +9,13 @@
 
 
 
-Web Phishing Detection
+# Web Phishing Detection
 
 
 
 There are a number of users who purchase products online and make payments through e-banking. There are e-banking websites that ask users to provide sensitive data such as username, password & credit card details, etc., often for malicious reasons. This type of e-banking website is known as a phishing website. Web service is one of the key communications software services for the Internet. Web phishing is one of many security threats to web services on the Internet.
 
-Common threats of Web Phishing:
+# Common threats of Web Phishing:
 
 
 
@@ -25,7 +25,7 @@ Large organizations may get trapped in different kinds of scams. In order to det
 ![image](https://user-images.githubusercontent.com/114083381/202792894-7e3d0e91-ff59-41b0-8fd1-fb0cdb724d51.png)
 
 
-Team Members:
+# Team Members:
 
 
 
@@ -41,7 +41,7 @@ R.KISHORE KUMAR
 S.AKASH
 
 
-Languages Used:
+# Languages Used:
 
 
  Pandas
